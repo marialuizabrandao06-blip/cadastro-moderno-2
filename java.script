@@ -1,0 +1,18 @@
+const nome = document.getElementById("nome");
+
+const email= document.getElementById("e-mail");
+
+const CPF = document.getElementById("CPF");
+
+const telefone = document.getElementById("telefone");
+
+const senha = document.getElementById("senha");
+
+const botaoentrar = document.getElementById("entrar");
+
+botaoentrar.addEventListener ("click", function () {
+       alert("botao clicado!");
+});
+
+
+
